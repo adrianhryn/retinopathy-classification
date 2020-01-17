@@ -1,0 +1,38 @@
+INFO:root:LOGS OF DENSENET-121 ARE STARTED
+INFO:root:val_kappa: 0.5312
+INFO:root:Validation Kappa has improved. Model saved!
+WARNING:tensorflow:From /home/ubuntu/anaconda3/envs/tensorflow2_p36/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1781: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+INFO:tensorflow:Assets written to: DENSENET-121/assets
+INFO:root:val_kappa: 0.7274
+INFO:root:Validation Kappa has improved. Model saved!
+INFO:tensorflow:Assets written to: DENSENET-121/assets
+INFO:root:val_kappa: 0.7807
+INFO:root:Validation Kappa has improved. Model saved!
+INFO:tensorflow:Assets written to: DENSENET-121/assets
+INFO:root:val_kappa: 0.7806
+INFO:root:val_kappa: 0.7749
+ERROR:root:Internal Python error in the inspect module.
+Below is the traceback from this internal error.
+
+
+INFO:root:LOGS OF RESNET-50 ARE STARTED
+INFO:root:val_kappa: 0.7221
+INFO:root:Validation Kappa has improved. Model saved!
+WARNING:tensorflow:From /home/ubuntu/anaconda3/envs/tensorflow2_p36/lib/python3.6/site-packages/tensorflow_core/python/ops/resource_variable_ops.py:1781: calling BaseResourceVariable.__init__ (from tensorflow.python.ops.resource_variable_ops) with constraint is deprecated and will be removed in a future version.
+Instructions for updating:
+If using Keras pass *_constraint arguments to layers.
+INFO:tensorflow:Assets written to: RESNET-50/assets
+INFO:root:val_kappa: 0.7227
+INFO:root:Validation Kappa has improved. Model saved!
+INFO:tensorflow:Assets written to: RESNET-50/assets
+INFO:root:val_kappa: 0.7238
+INFO:root:Validation Kappa has improved. Model saved!
+INFO:tensorflow:Assets written to: RESNET-50/assets
+INFO:root:val_kappa: 0.7221
+INFO:root:val_kappa: 0.7251
+INFO:root:Validation Kappa has improved. Model saved!
+INFO:tensorflow:Assets written to: RESNET-50/assets
+INFO:root:val_kappa: 0.2663
+INFO:root:val_kappa: 0.6255

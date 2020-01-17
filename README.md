@@ -6,7 +6,7 @@ Then you should put all the files to folder "data". Also, create in that folder 
 How to run experiemnts:
 1. Run "2. experiments"
 
-If you are interesting in ideas and approaches that our team considered, check our report:
+If you are interesting in ideas and approaches that our team considered or want to know more about the problem, check our report:
 https://docs.google.com/document/d/1IphfTH6zJ-e70fj3ZmgUT-bdDyRuSuRAHtNaG5Sx4Ao/edit?usp=sharing
 
 Where are the results?

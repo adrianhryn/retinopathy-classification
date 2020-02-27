@@ -11,4 +11,4 @@ https://docs.google.com/document/d/1IphfTH6zJ-e70fj3ZmgUT-bdDyRuSuRAHtNaG5Sx4Ao/
 
 Where are the results?
 I included all the Kappa scores into results.log. You can see how they were changing with different epochs.
-You can also see visualizations of Kappa scores and Validation losses of our models in our report. See section "Results and evaluation"
+You can also see visualizations of Kappa scores and Validation losses of our models in our report. See section "Results and evaluation".
